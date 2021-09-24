@@ -1,26 +1,16 @@
 ### Hi there, I'm Nitesh Sinwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://raw.githubusercontent.com/niteshsinwar/niteshsinwar/master/Profile1.gif)
-<br>
-<p align="center">
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
-</p>
-
 ![](https://komarev.com/ghpvc/?username=niteshsinwar&color=blue)•
 <img src="https://badges.pufler.dev/repos/niteshsinwar" />•
 <img src="https://badges.pufler.dev/commits/monthly/niteshsinwar" />•
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/niteshsinwar?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/niteshsinwar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
-  
-- 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GWSOC'21
-- 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21
-- 🌱 I’m currently pursuing B.tech CSE
-- 👯 I’m looking to collaborate on C++, Web Development and Python
-- 🤔 I’m looking for help with Data Science
-- :zap: I love software development, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- 👯 I’m looking to collaborate on more open source projects.
+- 🔭 I’m currently working  in technical department Of Google-Dsc & Geek-for-Seeks club
+- 🌱 I’m currently pursuing B.tech CSE with spcialization in Data Science(ML) with UpGrad.
+- 👯 I’m looking to collaborate on Android(java),Web Development(MERN) and Python Projects
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: [@NiteshSinwar||Linkedin][linkedin] or say 👋 on Email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com)
 ### Connect with me:
 
@@ -68,7 +58,24 @@
 <br />
 <br />
 
- [![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshsinwar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/niteshsinwar/github-readme-stats)
+<h2 align="center">⚙️ GitHub Analytics ⚙️</h2>
+<br>
+<p align="center">
+<a href="https://github.com/tjanhvi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteshsinwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+</a>
+</p>
+
+<p align = "center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteshsinwar&layout=compact&langs_count=8&theme=algolia"/>
+</p> 
+ 
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshsinwar&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+</p> 
+
+![Nitesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=niteshsinwar&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![snake gif](https://github.com/tjanhvi/tjanhvi/blob/output/github-contribution-grid-snake.svg)
   
   
   ### 📕 Latest Blog posts:
