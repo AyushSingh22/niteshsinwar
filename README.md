@@ -52,7 +52,6 @@
 
  [![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshsinwar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/niteshsinwar/github-readme-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshsinwar)](https://github.com/niteshsinwar/github-readme-stats)
   
   ### 📕 Latest Blog posts:
 - [Complete CSE GUIDE-BOOK](https://www.slideshare.net/NiteshSinwar/cse-guide-book)
