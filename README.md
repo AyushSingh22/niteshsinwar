@@ -3,7 +3,7 @@
 - :zap: I love software development, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 👯 I’m looking to collaborate on more open source projects.
-- 📫 How to reach me: [@NiteshSinwar][linkedin] or say 👋 on Email at [Nitesh Sinwar](mailto:niteshsinwar@gmail.com)
+- 📫 How to reach me: [@NiteshSinwar||Linkedin][linkedin] or say 👋 on Email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com)
 ### Connect with me:
 
 [<img align="left" alt="niteshsinwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
