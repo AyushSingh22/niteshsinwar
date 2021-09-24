@@ -1,5 +1,23 @@
 ### Hi there, I'm Nitesh Sinwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![](https://raw.githubusercontent.com/niteshsinwar/niteshsinwar/master/Profile1.gif)
+<br>
+<p align="center">
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=niteshsinwar&color=blue)•
+<img src="https://badges.pufler.dev/repos/niteshsinwar" />•
+<img src="https://badges.pufler.dev/commits/monthly/niteshsinwar" />•
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/niteshsinwar?label=Followers&style=social"> • 
+<img src="https://img.shields.io/github/stars/niteshsinwar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+
+  
+- 🔭 I’m currently working as contributor in a Open Soucre Contribution Program GWSOC'21
+- 🔭  I was the contributior in a Open Soucre Contribution Program LGSMOC'21
+- 🌱 I’m currently pursuing B.tech CSE
+- 👯 I’m looking to collaborate on C++, Web Development and Python
+- 🤔 I’m looking for help with Data Science
 - :zap: I love software development, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 👯 I’m looking to collaborate on more open source projects.
