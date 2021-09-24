@@ -3,17 +3,15 @@
 - :zap: I love software development, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to <b>Android application Development, Android Custom Operating System Development, Kotlin, Java, iOS Development, Swift, Javascript, Google App Script & Spring Boot, Security, Data JPA.</b>
-- 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:vibhorchaudhary@yahoo.com)
+
 ### Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="niteshsinwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="niteshsinwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="niteshsinwar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="niteshsinwar | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="niteshsinwar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="niteshsinwar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -41,9 +39,10 @@
   [![Nitesh's github stats](https://github-readme-stats.vercel.app/api?username=niteshsinwar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/niteshsinwar/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshsinwar)](https://github.com/niteshsinwar/github-readme-stats)
+  
   ### 📕 Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
+- [Complete CSE GUIDE-BOOK](<iframe src="//www.slideshare.net/slideshow/embed_code/key/1YQU6PewWzQ0ZH" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NiteshSinwar/cse-guide-book" title="CSE guide book" target="_blank">CSE guide book</a> </strong> from <strong><a href="https://www.slideshare.net/NiteshSinwar" target="_blank">NiteshSinwar</a></strong> </div>)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://forum.xda-developers.com/m/vibhorchaudhary.5991465/
