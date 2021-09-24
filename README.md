@@ -42,7 +42,8 @@
   
   ### 📕 Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Complete CSE GUIDE-BOOK](<iframe src="//www.slideshare.net/slideshow/embed_code/key/1YQU6PewWzQ0ZH" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NiteshSinwar/cse-guide-book" title="CSE guide book" target="_blank">CSE guide book</a> </strong> from <strong><a href="https://www.slideshare.net/NiteshSinwar" target="_blank">NiteshSinwar</a></strong> </div>)
+- [Complete CSE GUIDE-BOOK]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1YQU6PewWzQ0ZH" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/NiteshSinwar/cse-guide-book" title="CSE guide book" target="_blank">CSE guide book</a> </strong> from <strong><a href="https://www.slideshare.net/NiteshSinwar" target="_blank">NiteshSinwar</a></strong> </div>
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://forum.xda-developers.com/m/vibhorchaudhary.5991465/
