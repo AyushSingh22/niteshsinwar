@@ -18,11 +18,12 @@
 ### Languages and Tools:
 <br />
 <br />
-<img align="left" alt="Java" width="26px" src="https://th.bing.com/th/id/OIP.Mfwt_9c1n3ucmkWFjzmLzwHaHa?pid=ImgDet&rs=1" />
-<img align="left" alt="Java" width="26px" src="https://www.familycomputercentre.com/wp-content/uploads/logo-web-development.jpg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="https://img.freepik.com/free-photo/tools-cross-settings-symbol-for-interface_318-48264.png" />
+<img align="left" alt="Java" width="26px" src="https://www.pngfind.com/pngs/m/170-1706361_web-development-icon-web-development-logo-png-transparent.png" />
  <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Java" width="26px" src="https://www.clipartkey.com/mpngs/m/289-2890745_transparent-data-science-logo.png" />
+<img align="left" alt="Java" width="26px" src="https://www.pinpng.com/pngs/m/202-2022092_beltech-2018-icons-webside-schedule-machine-learning-icon.png" />
+
 <br />
 <br />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
