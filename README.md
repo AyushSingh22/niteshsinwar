@@ -3,7 +3,7 @@
 - :zap: I love software development, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 👯 I’m looking to collaborate on more open source projects.
-- 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:vibhorchaudhary@yahoo.com)
+- 📫 How to reach me: [@NiteshSinwar][linkedin] or say 👋 on Email at [Nitesh Sinwar](mailto:niteshsinwar@gmail.com)
 ### Connect with me:
 
 [<img align="left" alt="niteshsinwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -16,8 +16,7 @@
 <br />
 
 ### Languages, Tools and Technologies:
-<br />
-<br />
+
 <img align="left" alt="Java" width="26px" src="https://cdn1.iconfinder.com/data/icons/hands-pt-1/100/016_-_hand_arrow-512.png" />
 <img align="left" alt="Java" width="26px" src="https://www.pngfind.com/pngs/m/170-1706361_web-development-icon-web-development-logo-png-transparent.png" />
  <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -33,12 +32,14 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
+<img align="left" alt="Java" width="26px" src="https://cdn1.iconfinder.com/data/icons/hands-pt-1/100/016_-_hand_arrow-512.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/1200px-Antu_mongodb.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://marlo.com.au/wp-content/uploads/2018/10/spring-boot.png" />
 <br />
 <br />
+<img align="left" alt="Java" width="26px" src="https://cdn1.iconfinder.com/data/icons/hands-pt-1/100/016_-_hand_arrow-512.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Git" width="26px" src="https://appjoy.org/wp-content/uploads/2016/05/Android-Studio-Logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
