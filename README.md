@@ -6,12 +6,13 @@
 <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/niteshsinwar?label=Followers&style=social"> • 
 <img src="https://img.shields.io/github/stars/niteshsinwar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 
-- 🌱 I’m addicted to learning and growing every day
-- 🔭 I’m currently working  in technical department Of Google-Dsc & Geek-for-Seeks club
+- 🌱 I’m addicted to learning and growing every day.
+- 🔭 I’m currently working  in technical department Of Google-Dsc & Geek-for-Seeks club.
 - 🌱 I’m currently pursuing B.tech CSE with spcialization in Data Science(ML) with UpGrad.
-- 👯 I’m looking to collaborate on Android(java),Web Development(MERN) and Python Projects
-- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on Android(java),Web Development(MERN) and Python Projects.
 - 📫 How to reach me: [@NiteshSinwar||Linkedin][linkedin] or say 👋 on Email at [niteshsinwar@gmail.com](mailto:niteshsinwar@gmail.com)
+- 😄 Pronouns: He/Him
+
 ### Connect with me:
 
 [<img align="left" alt="niteshsinwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
